@@ -1,0 +1,20 @@
+{
+  "name": "stepmotor-28BYJ-48",
+  "version": "0.0.0",
+  "description": "Nodejs stepmotor driver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stepmotor",
+    "28BYJ-48"
+  ],
+  "author": "omarnas",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^2.0.0",
+    "sleep": "^5.1.1",
+    "yargs": "^11.0.0"
+  }
+}
